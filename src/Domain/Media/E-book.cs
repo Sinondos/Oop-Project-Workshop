@@ -4,4 +4,9 @@ class EBook : IReadable
     int numberOfPages;
     string language;
     string author;
+
+    void Read()
+    {
+        Console.WriteLine("You are reading the E-book");
+    }
 }

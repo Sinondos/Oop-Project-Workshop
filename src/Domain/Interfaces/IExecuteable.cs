@@ -1,4 +1,4 @@
-interface IExecuteable
+public interface IExecuteable
 {
-    void Execute();
+    public void Execute();
 }
