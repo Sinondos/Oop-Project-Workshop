@@ -19,6 +19,8 @@ class Admin : Person
     RemoveBorrower();
     AddMedia();
     RemoveMedia();
+    public Admin(string name, int age, string cpr)
+        : base(name, age, cpr)
 }
 
 class Borrower : Person
@@ -26,10 +28,14 @@ class Borrower : Person
     private string[] listOfBorrowedMediaAllTime;
     private string[] listOfBorrowedMediaNow;
     Borrow();
+    public Borrower(string name, int age, string cpr)
+        : base(name, age, cpr)
 }
 
 class Employee : Person
 {
     AddMedia();
     RemoveMedia();
+    public Employee(string name, int age, string cpr)
+        : base(name, age, cpr)
 }
