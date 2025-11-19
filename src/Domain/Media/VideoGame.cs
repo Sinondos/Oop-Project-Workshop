@@ -1,7 +1,6 @@
-class Apps ()
+class VideoGame : IPlayable
 {
     string publisher;
-    string version;
     string[] supportedPlatforms;
-    string fileSize;
+    string genre;
 }

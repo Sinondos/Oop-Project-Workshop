@@ -1,4 +1,4 @@
-class EBooks ()
+class EBook : IReadable
 {
     string ISBN;
     int numberOfPages;

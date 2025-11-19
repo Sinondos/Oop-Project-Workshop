@@ -1,8 +1,8 @@
-class Songs()
+class Song : IListenable
 {
-    int song length;
+    int songLengthInSeconds;
     string language;
-    string file type;
+    string fileType;
     string genre;
     string singer;
     string composer;
