@@ -6,7 +6,7 @@
         {
             Console.Clear();
             Console.WriteLine("Menu:");
-            Console.WriteLine("1. Option 1);
+            Console.WriteLine("1. Option 1");
             Console.WriteLine("2. Option 2");
             Console.WriteLine("3. Exit");
             Console.Write("Select an option: ");
