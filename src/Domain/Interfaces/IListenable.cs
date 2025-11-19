@@ -1,0 +1,4 @@
+interface IListenable
+{
+    void Listen();
+}

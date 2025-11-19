@@ -1,0 +1,4 @@
+interface IExecuteable
+{
+    void Execute();
+}

@@ -1,0 +1,4 @@
+interface IWatchable
+{
+    void Watch();
+}

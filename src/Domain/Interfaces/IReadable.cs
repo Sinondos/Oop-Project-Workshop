@@ -1,0 +1,4 @@
+interface IReadable
+{
+    string Read();
+}
