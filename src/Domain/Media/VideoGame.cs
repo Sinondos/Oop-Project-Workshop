@@ -1,4 +1,4 @@
-class VideoGame ()
+class VideoGame : IPlayable
 {
     string publisher;
     string[] supportedPlatforms;

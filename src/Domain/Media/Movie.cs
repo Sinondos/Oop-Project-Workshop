@@ -1,4 +1,4 @@
-class Movie ()
+class Movie : IWatchable
 {
     string director;
     string genre;

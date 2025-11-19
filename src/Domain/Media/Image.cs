@@ -1,4 +1,4 @@
-class Image ()
+class Image : IDisplayable
 {
     string fileFormat;
     string fileSize;

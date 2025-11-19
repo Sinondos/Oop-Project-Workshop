@@ -1,4 +1,4 @@
-class Song()
+class Song : IListenable
 {
     int songLengthInSeconds;
     string language;

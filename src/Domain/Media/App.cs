@@ -1,4 +1,4 @@
-class App ()
+class App : IExecuteable
 {
     string publisher;
     string version;
