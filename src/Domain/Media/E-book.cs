@@ -1,4 +1,4 @@
-class EBooks ()
+class EBook ()
 {
     string ISBN;
     int numberOfPages;

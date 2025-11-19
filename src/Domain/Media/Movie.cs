@@ -1,4 +1,4 @@
-class Movies ()
+class Movie ()
 {
     string director;
     string genre;

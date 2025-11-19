@@ -1,4 +1,4 @@
-class Images ()
+class Image ()
 {
     string fileFormat;
     string fileSize;
